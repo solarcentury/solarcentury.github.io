@@ -65,8 +65,12 @@ task :post do
     post.puts "---"
     post.puts "layout: post"
     post.puts "title: \"#{title.gsub(/-/,' ')}\""
+    post.puts "author: Dom"
     post.puts 'description: ""'
     post.puts "category: #{category}"
+    post.puts "image:"
+    post.puts " feature: walt-disney.jpg"
+    post.puts " topPosition: 0px"
     post.puts "tags: #{tags}"
     post.puts "---"
     post.puts "{% include JB/setup %}"
