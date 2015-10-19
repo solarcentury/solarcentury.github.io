@@ -8,36 +8,34 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-
 # Setup
-timezone:            United Kingdom/London
 locale:              en_gb # eg. en_us
-name:                SC Software Dev Blog
 description:         'description'
 #url:                 site url
-#rss:                 rss feed url
+rss:                 rss.xml
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'
 baseurl_javascripts: '/assets/javascripts/'
-#icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
-#disqus:              disqus_shortname # get it on https://disqus.com/admin/
+icon:                '/assets/img/icon.png' #[best 300px X 300px]
+disqus:              solarcenturysoftdev #disqus_shortname # get it on https://disqus.com/admin/
 
 
+name: SC Software Dev Blog
 title : SC Software Dev Blog
-tagline :  
+tagline : Learnings, tales and gifs from a software development team based in London
 author :
   name : Solarcentury
   email : dominic.starkey@solarcentury.com
   github : solarcentury
-  facebook:          username
-  twitter:           username
-  google_plus:       username
-  linkedin:          username
-  dribbble:          username
-  pinterest:         username
-  kiva:              username
+  #facebook:          username
+  twitter:           sc_gifs
+  #google_plus:       username
+  #linkedin:          username
+  #dribbble:          username
+  #pinterest:         username
+  #kiva:              username
   #twitter : username
   #feedburner : feedname
 
@@ -192,7 +190,15 @@ defaults:
 authors:
   Dom:
     display_name: Dom Starkey
-    gravatar: 45ee30429dda9ce7e6dd6b672ec8fa10
-    email: dominic.starkey@solarcentury.com
-    web: http://www.solarcentury.com/
-    github: domstarkey
+  James:
+    display_name: James Lawrie
+  Ajantha:
+    display_name: Ajantha Malwatta
+  Daniel:
+    display_name: Daniel Grasso
+  Colin:
+    display_name: Colin but
+  Naga:
+    display_name: Nagaraju Thalluri
+  Michael:
+    display_name: Michalis Daniilakis

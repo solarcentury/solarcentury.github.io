@@ -499,7 +499,7 @@ body {
 }
 
 .brandLogo {
-  background-image: url(../images/logo-white.svg);
+  background-image: url(../images/logo.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: 0 0;
@@ -509,17 +509,18 @@ body {
 }
 
 .brandLogo--small {
+  background-image: url(../images/logo-small.png);
   width: 44px;
   height: 44px;
 }
 
 .brandLogo--black {
-  background-image: url(../images/logo-black.svg);
+  background-image: url(../images/logo.png);
 }
 
 .textLogo {
   display: block;
-  background-image: url(../images/logo-text-black.svg);
+  background-image: url(../images/logo.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: 0 0;
@@ -529,7 +530,7 @@ body {
 }
 
 .textLogo--white {
-  background-image: url(../images/logo-text-white.svg);
+  background-image: url(../images/logo-white.png);
 }
 
 .textLogo--sidebar {
@@ -2089,7 +2090,7 @@ body {
 .section--footer {
   width: 100%;
   background: #fff;
-  padding: 1.5rem 0 3rem;
+  padding: 1.5rem 0 1rem;
   position: relative;
   z-index: 400;
   font-family: "Roboto", sans-serif;

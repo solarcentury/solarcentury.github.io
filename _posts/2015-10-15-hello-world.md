@@ -15,15 +15,23 @@ tags: [Hello, Meta, Dom]
 
 ##An Introduction
 
-Hello! My name's Dom Starkey and I'm the Lead Software Engineer at [Solarcentury](http://www.solarcentury.com).
+Hello! My name's Dom Starkey and I'm the Lead Software Developer at [Solarcentury](http://www.solarcentury.com). Over the past three years, we've been building a small team of Java and PHP developers to work on a wide range of internal software projects.
 
-<blockquote class="largeQuote">“All our dreams can come true, if we have the courage to pursue them.” - Walt Disney</blockquote>
+<blockquote class="u--startsWithDoubleQuote">“Software developers like to solve problems. If there are no problems handily available, they will create their own.”</blockquote>
 
-Solarcentury has a Software Development team made up of 8 engineers working on a wide variety of projects.
+Throughout that time, we've learnt and improved how we best work as a team, as well as updated, upgraded and generally refreshed a large number of websites and tools used by the company and our customers. We've also discovered that we really love gifs...
 
-<blockquote class="u--startsWithDoubleQuote">“Mickey Mouse popped out of my mind onto a drawing pad 20 years ago on a train ride from Manhattan to Hollywood at a time when business fortunes of my brother Roy and myself were at lowest ebb and disaster seemed right around the corner.” <br/>- Walt Disney</blockquote>
+<div class="img img--fullContainer img--8xLeading" style="background-image: url({{ site.baseurl_posts_img }}han.gif);"></div>
 
+So we're starting a blog. I'm not sure what'll be in it yet but I expect we'll be talking about some of the following:
 
-<p class="u--startsWithDoubleQuote">“Hoping to find work outside the Chicago O-Zell factory, Walt moved back to Kansas City in 1919 to begin his artistic career.” He considered becoming an actor, but decided to draw political caricatures or comic strips for a newspaper. When nobody wanted to hire him as either an artist or as an ambulance driver, his brother Roy, then working in a local bank, got Walt a temporary job through a bank colleague at the Pesmen-Rubin Art Studio, where he created advertisements for newspapers, magazines, and movie theaters. At Pesmen-Rubin he met cartoonist Ubbe Iwerks and, when their time at the studio expired, they decided to start their own commercial company together.</p>
+-	The dos and don'ts of moving from Struts to Spring
+-	How we got on when we tried to learn Drupal
+-	Why are we learning Drupal anyway?
+-	What is the best celebration gif?
 
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}walt-childhood.jpg);"></div>
+We also have fortnightly team learning sessions so I'll write up what we've been reading, discussing or making (this blog was the product of one of these sessions!).
+
+Luckily for the reader, it won't just be me writing - We'll have contributions from the whole team, particularly on new or interesting pieces of work. Hope to see you soon!
+<blockquote class="largeQuote">“Good luck... you're gonna need it!” - Han Solo</blockquote>
+
