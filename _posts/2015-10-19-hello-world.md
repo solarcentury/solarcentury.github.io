@@ -9,6 +9,7 @@ image:
   topPosition: -300px
 category: 
 tags: [Hello, Meta, Dom]
+excerpt: "An Introduction. Hello! My name's Dom..."
 ---
 {% include JB/setup %}
 
