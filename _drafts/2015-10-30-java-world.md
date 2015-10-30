@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Java World!"
-author: Dom
+author: Naga
 description: ""
 category: 
 image:
- feature: walt-disney.jpg
+ feature: java-world-blog.jpg
  topPosition: 0px
 tags: []
 ---
