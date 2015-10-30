@@ -20,7 +20,7 @@ the changes that are taking place in terms of effective features and syntactical
 
 As speed and accuracy of the information is very important in our application for the benefit of internal and external business processes, the new Java features/standards where appropriate have been adopted into the programming code so as to give the better business value to the company.
 
- For example, The following are the some of the Java 8 features we started commercially using in the programming code since we migrated on to Java8 as they are quite useful while implementing the business requirements.
+For example, The following are the some of the Java 8 features we started using commercially in the programming code since we migrated on to Java8 as they are quite useful while implementing the business requirements.
  
  - Switching to the new Date API (This API brings the ease of use and is more elegant and functional)
  - Usage of Lambda expressions ()
@@ -28,7 +28,7 @@ As speed and accuracy of the information is very important in our application fo
  - Functional Programming
  - Default methods
  
- Not only the about ones, we aim at using more technical features and improvements as provided by Java from time to time if we think it is commercially using as per the nature of business and ongoing demand for the functional/technical implementations.
+ Not only the about ones, we aim at using more advanced technical features and improvements as provided by Java from time to time if we think it is commercially using as per the nature of business and ongoing demand for the functional/technical implementations.
  
  Please feel free to read through our blog and comment if you have any suggestions or any better usage of features or techniques. We are open and happy to share our experiences while using any features that we are currently using. We would like to hear more queries or recommendations on 'why to do so' and 'Where we need use' kind of new thoughts.
  
