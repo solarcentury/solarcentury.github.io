@@ -79,7 +79,7 @@ WOW! Just an empty Java interface? Yes indeed it is!
 
 Okay, you could argue you still had to code up 3 or 4 lines of text but with best modern IDEs these days, you can get them to auto-generate it for you.
 
-Intellij IDEA, Eclipse, and Netbeans all allow you to automatically generate an empty code file extending from a class/implementing an interface etc. just by a click of a button or a few buttons.
+Intellij IDEA, Eclipse, and Netbeans all allow you to automatically generate an empty code file implementing an interface etc. just by a click of a button or a few buttons.
 
 I'm not saying JDBC is bad. It is very good in certain situations (which i'm not going to cover here). But i feel Spring Data JPA is awesome and that not just it saves you development time but also enables you to write less error prone code. It is an abstraction layer which the Spring Framework itself has taken care of the nitty gritty data access code for you.
 
