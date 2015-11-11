@@ -2679,6 +2679,11 @@ body {
   display: none !important;
 }
 
+.highlight pre{
+  background:#A4A2B5;
+  padding:0 5px;
+}
+
 @media (max-width: 767px) {
   .visible-xs {
     display: block !important;

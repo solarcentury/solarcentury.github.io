@@ -1,25 +1,23 @@
 ---
 layout: post
 author: Colin
-title: "Spring Data JPA over JDBC"
+title: "Spring Data JPA versus JDBC"
 description: ""
 category:
 image:
  feature: autumn.jpg
  topPosition: 0px;
-tags: [Software, Development, Team]
+tags: [Software, Development, Team, Spring JPA, JDBC, Java, Spring Data ]
 ---
 {% include JB/setup %}
 
-​
-## Spring Data JPA over JDBC
 
-In this short blog i'm going to very briefly show you how good Spring Data JPA is and why i think you should choose
+In this short blog I'm going to very briefly show you how good Spring Data JPA is and why I think you should choose
 this over raw JDBC code.
 
-> "You don't need to write a single line of code"
+> "You don't need to write a single line of code."
 
-Yep, you heard me said it.
+Yep, you heard me say it.
 
 We used to write raw JDBC code in our DAOs. This is what our code used to be like:
 
@@ -77,15 +75,14 @@ public interface PersonRepository extends JpaRepository<PersonEntity, Integer> {
 
 WOW! Just an empty Java interface? Yes indeed it is!  
 
-Okay, you could argue you still had to code up 3 or 4 lines of text but with best modern IDEs these days, you can get them to auto-generate it for you.
+Okay, you could argue you still had to code up 3 or 4 lines of text but with the best modern IDEs, you can get them to auto-generate it for you.
 
-Intellij IDEA, Eclipse, and Netbeans all allow you to automatically generate an empty code file implementing an interface etc. just by a click of a button or a few buttons.
+Intellij IDEA, Eclipse and Netbeans all allow you to automatically generate an empty code file implementing an interface etc. just by a click of a button or a few buttons.
 
-I'm not saying JDBC is bad. It is very good in certain situations (which i'm not going to cover here). But i feel Spring Data JPA is awesome and that not just it saves you development time but also enables you to write less error prone code. It is an abstraction layer which the Spring Framework itself has taken care of the nitty gritty data access code for you.
+I'm not saying JDBC is bad. It is very good in certain situations (which I'm not going to cover here). But I feel Spring Data JPA is awesome and that not just it saves you development time but also enables you to write less error prone code. It is an abstraction layer which the Spring Framework itself has taken care of the nitty gritty data access code for you.
 
-I admit, when i first heard of this technology i was quite sceptical about it. My first reaction was "what's the point of having us developers if we not writing any much code".
-But having used Spring Data JPA for over 5 months now, i can see the benefits it brings. We 'Application Developers' should be focused on writing 'Application Code' implementing business logic to solve business problems. And this is where Spring Data JPA really helps - it relieves you from having to spend so much time in writing 'Data Access' code - code that is sometimes considered as boilerplate/mondane infrastructure code surrounding you application.
+I admit, when I first heard of this technology, I was quite sceptical about it. My first reaction was, "What's the point of having us developers if we not writing any much code?"
 
-I would like to stress though, this is completely my person opinion.
+But having used Spring Data JPA for over 5 months now, I can see the benefits it brings. We 'Application Developers' should be focused on writing 'Application Code' implementing business logic to solve business problems. And this is where Spring Data JPA really helps - it relieves you from having to spend so much time in writing 'Data Access' code - code that is sometimes considered as boilerplate/mondane infrastructure code surrounding you application.
 
-Need i say no more  :)
+Need I say more?  :)
