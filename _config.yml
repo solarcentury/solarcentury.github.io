@@ -159,7 +159,7 @@ JB :
 
 
 # Syntax highlighting
-markdown:            redcarpet
+#markdown:            redcarpet
 highlighter:         pygments
 
 # Permalinks
